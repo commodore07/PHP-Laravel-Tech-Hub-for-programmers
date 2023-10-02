@@ -35,7 +35,7 @@
 <span class="checkmark"></span> Remember password
 </label>
 </div>
-<button class="btn btn-primary btn-block btn-lg login-btn" type="submit">Login</button>
+<button class="btn btn-primary btn-block btn-lg login-btn" type="submit">Login to account</button>
 <div class="login-or">
 <p>Or login with</p>
 </div>
